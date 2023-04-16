@@ -6,16 +6,19 @@
 #### Login Page
 <br>
 
-![picture](screenshots/4.jpg)
+<img src="./screenshots/4.jpg" height=500>
+
 #### Home Page showing daily expense.
 <br>
 
-![picture](screenshots/1.jpg)
+<img src="./screenshots/1.jpg" height=500>
+
 #### Home Page showing all the expenses in this year.
 <br>
 
-![picture](screenshots/2.jpg)
+<img src="./screenshots/2.jpg" height=500>
+
 #### Graph showing expense for a given month
 <br>
 
-![picture](screenshots/3.jpg)
+<img src="./screenshots/3.jpg" height=500>
