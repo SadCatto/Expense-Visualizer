@@ -1,20 +1,21 @@
-<<<<<<< HEAD
-# expense_tracker
+# Expense Visualizer
 
-Expense tracking app
+### Expense Visualizer App made using flutter and firebase which keeps track of all the expenses of users and presents them in from of chart for better visualization
+<br>
 
-## Getting Started
+#### Login Page
+<br>
 
-This project is a starting point for a Flutter application.
+![picture](screenshots/4.jpg)
+#### Home Page showing daily expense.
+<br>
 
-A few resources to get you started if this is your first Flutter project:
+![picture](screenshots/1.jpg)
+#### Home Page showing all the expenses in this year.
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![picture](screenshots/2.jpg)
+#### Graph showing expense for a given month
+<br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Expense-Visualizer
->>>>>>> a87b767eb70cfaf0dda567df5a37e28f03fdd32d
+![picture](screenshots/3.jpg)
